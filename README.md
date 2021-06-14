@@ -35,6 +35,8 @@ original: https://flccc.net/flccc-alliance-i-maskplus-protocol-english/
 
 ### etc.
 
+* libre office draw can edit \*.odg file
+
 * base translation by DeepL.
 
 * for improvement, any comments, requests are welcome. and for consistency, do not fork.
