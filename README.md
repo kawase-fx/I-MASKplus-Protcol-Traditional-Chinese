@@ -31,6 +31,8 @@ FLCCC alliance I-MASK+ protcol(translation to traditional Chinese language)
 
 FLCCC 聯盟 COVID-19 的 I-Mask+ 預防和早期門診治療方案 - 繁體中文版本
 
+original: https://flccc.net/flccc-alliance-i-maskplus-protocol-english/
+
 ### etc.
 
 * base translation by DeepL.
